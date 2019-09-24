@@ -1,5 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Flexibility of the License "
-    id="368de115-887b-49f2-824c-2bd6a63f8b78"
-    documentation="Open Source Software licenses can provide more flexibility than a proprietary license for a digital project’s deliverables.&#xD;&#xA;&#xD;&#xA;Where the Business Requirement would benefit from the reuse of Software, the GC may acquire Software such that it may be used in subsequent projects in the GC. A Proprietary Software licensor can grant such right of re-use upon request, but by its nature, all Open Source Software is reusable and therefore compliant with this request by default."/>

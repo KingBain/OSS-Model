@@ -1,5 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="The Ability to Evaluate the Code "
-    id="3c2e60ea-a922-46c7-9e10-574ee84d97a5"
-    documentation="The GC may set its requirements such that the source code be available for audit by a third party to identify quality, functionality and security of the Software."/>
