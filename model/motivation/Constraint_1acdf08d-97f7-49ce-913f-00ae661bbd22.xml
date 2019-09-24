@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The Ability to Distribute the Software "
+    id="1acdf08d-97f7-49ce-913f-00ae661bbd22"
+    documentation="Business requirements may be set such that the Software be available for distribution to anyone of its choice to ensure that other Crown institutions do not need to become customers of the original vendor in order to access and use services provided by another agency. For example, the federal Crown may wish to be able to provide the Software at no extra costs to provincial or municipal institutions."/>

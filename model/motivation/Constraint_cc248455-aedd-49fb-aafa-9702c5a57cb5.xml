@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Requirements"
+    id="cc248455-aedd-49fb-aafa-9702c5a57cb5"
+    documentation="A Business Requirement is different from, and larger than, a digital project’s Functional Requirements or Technical Requirements alone. A Functional Requirement defines a particular function of software in order to obtain a result, and addresses a more specific working level need. A Technical Requirement defines a capability or the attributes needed to work with other software, and expresses the larger architectural decision to support the project.&#xD;&#xA;&#xD;&#xA;The Business Requirement includes consideration of both the Functional and Technical Requirements, but also other overall elements, in order to address the nature, purpose and needs of the digital project at a high level, As a result, the Business Requirement will dictate the path for software acquisition and development, and Technical and Functional Requirements cannot be used alone as justification for the purposes of an evaluation of the benefits of Open Source Software or Proprietary Software."/>

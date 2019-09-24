@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The Use of International or Canadian Standards "
+    id="017ba257-a665-4086-93b9-383a43d9abf9"
+    documentation="Business Requirements may dictate that the underlying application should conform to International or Canadian Standards, such as but not limited to requirement that the official languages requiring Software be available in both official languages."/>

@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ability to use for any Purpose "
+    id="6018a5a2-95d0-4aa8-a7bb-de3dd027a2f2"
+    documentation="Business Requirements may be set such that Software can be used for any purpose, having no restrictions in how it can be used, or allow others to use the Software. OSS terms are most likely to comply with this requirement."/>
