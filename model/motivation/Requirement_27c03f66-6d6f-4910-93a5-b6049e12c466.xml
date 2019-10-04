@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Assessments"
+    id="27c03f66-6d6f-4910-93a5-b6049e12c466"
+    documentation="Although OSS code is auditable, this does not necessarily mean it is secure. The quality of the code and the typical response time for patching security-related flaws help indicate the security maturity level of the software.&#xD;&#xA;&#xD;&#xA;As per any software, you should maintain best practices and have a process in place to list all packages in use as well as their version in order to patch them promptly."/>

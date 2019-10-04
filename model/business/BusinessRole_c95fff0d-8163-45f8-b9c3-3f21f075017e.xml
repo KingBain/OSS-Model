@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architects"
+    id="c95fff0d-8163-45f8-b9c3-3f21f075017e">
+  <properties
+      key="label"
+      value="Architects\n[Business Role]"/>
+</archimate:BusinessRole>

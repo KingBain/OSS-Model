@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Use Open Source Software Without Modification "
+    id="e4276857-5fd3-4d79-bc95-39196e50a5d6"
+    documentation="Using open source software without modification does not require that code be shared back.&#xD;&#xA;&#xD;&#xA;Configuration of software, even through configuration files, are not considered modifications.&#xD;&#xA;&#xD;&#xA;This is also true for combinations of open source software to build a solution or open source software used for development and deployment. See examples below:&#xD;&#xA;&#xD;&#xA;Standalone&#x9;Combination of components&#x9;Development and deployment&#xD;&#xA;Web browser, Productivity suite, Operating system and utilities (Window manager, Desktop environment, Text editor, Console..), ..&#x9;Application and plugins with database and web server&#x9;Custom development using open source software programming languages and dependencies, HTTP server, Database management system, Container platform&#xD;&#xA;For development or when writing source code, see Guide for Publishing Open Source Code."/>

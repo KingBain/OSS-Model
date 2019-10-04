@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A strong user community"
+    id="20a94f8c-df3b-4981-b12c-7415ceb792f2"
+    documentation="A strong user community involved in a project provides people to answer questions, test the software, report bugs, suggest improvements and drive forward overall interest in the software. Look at the software’s public code repository and check the project popularity by looking at the number of likes and followers. Check how active the project responds to users by looking at issues and the time between replies."/>
